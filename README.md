@@ -1,4 +1,2 @@
-### Hi reader
-
-I'm a guy Interested in programing on such languages as javascript, typescript, java, c++ and similar ones
-in the community I'm often being called Sotto, Russian Youtube or Raydan. You can just call me "Essig", "Raydan" or "Sotto".
+# Hey you
+if you ask me, why my profile picture has red eyes, I'm going to tell you it's because I haven't looked away from my screen for several days, but you will most likely not ask that anyways.
